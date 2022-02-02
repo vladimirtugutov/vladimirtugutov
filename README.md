@@ -2,7 +2,7 @@
 
 
 ### Codewars:
-![CodeWars](https://www.codewars.com/users/ekaterina.tugutova/badges/large)
+![CodeWars](https://www.codewars.com/users/vladimirtugutov/badges/large)
 
 ---
 
