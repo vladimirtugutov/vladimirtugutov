@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+### Codewars:
+![CodeWars](https://www.codewars.com/users/ekaterina.tugutova/badges/large)
+
+---
+
 <!--
 **vladimirtugutov/vladimirtugutov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
